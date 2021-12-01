@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Opioids.apps.OpiodsConfig',
+    'Opioids.apps.OpioidsConfig',
 ]
 
 MIDDLEWARE = [
